@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "image": "delicieus",
+    "name": "delicieus",
+    "icons": [
+      {"name": "FaBootstrap", "color": "#7952B3"},
+      {"name": "FaHtml5", "color": "#E34F26"},
+      {"name": "FaSass", "color": "#CC6699"}
+    ],
+    "description": "A food website built using Bootstrap, HTML, and Sass. Mainly focused on layout and carousel practice to create responsive food-related designs."
+  },
+  {
+    "id": 2,
+    "image": "doob",
+    "name": "doob",
+    "icons": [
+      {"name": "FaHtml5", "color": "#E34F26"},
+      {"name": "FaCss3", "color": "#1572B6"},
+      {"name": "FaGithub", "color": "#181717"}
+    ],
+    "description": "A simple portfolio project built with CSS and HTML, and hosted on GitHub to practice using Git and GitHub effectively."
+  },
+  {
+    "id": 3,
+    "image": "Yummy",
+    "name": "Yummy",
+    "icons": [
+      {"name": "FaHtml5", "color": "#E34F26"},
+      {"name": "FaSass", "color": "#CC6699"},
+      {"name": "FaJs", "color": "#F7DF1E"}
+    ],
+    "description": "My first project using JavaScript. Created with HTML, Sass, and JS to handle carousels and dynamic recipe interactions."
+  },
+  {
+    "id": 4,
+    "image": "array",
+    "name": "array",
+    "icons": [
+      {"name": "FaHtml5", "color": "#E34F26"},
+      {"name": "FaCss3", "color": "#1572B6"},
+      {"name": "FaGithub", "color": "#181717"}
+    ],
+    "description": "Developed using CSS, HTML, and GitHub to practice team collaboration and organize code with version control."
+  },
+  {
+    "id": 5,
+    "image": "design",
+    "name": "design",
+    "icons": [
+      {"name": "FaHtml5", "color": "#E34F26"},
+      {"name": "FaSass", "color": "#CC6699"},
+      {"name": "FaJs", "color": "#F7DF1E"}
+    ],
+    "description": "My second project with JavaScript, similar to Yummy. Built with HTML, JS, and Sass to enhance interactive section designs and JS skills."
+  },
+  {
+    "id": 6,
+    "image": "loopstudios",
+    "name": "loopstudios",
+    "icons": [
+      {"name": "FaHtml5", "color": "#E34F26"},
+      {"name": "FaSass", "color": "#CC6699"}
+    ],
+    "description": "Built entirely with HTML and Sass to practice full-page structuring and optimize clean design layouts."
+  },
+  {
+    "id": 7,
+    "image": "moderna",
+    "name": "moderna",
+    "icons": [
+      {"name": "FaHtml5", "color": "#E34F26"},
+      {"name": "FaSass", "color": "#CC6699"},
+      {"name": "FaBootstrap", "color": "#7952B3"},
+      {"name": "FaGithub", "color": "#181717"}
+    ],
+    "description": "Created with HTML, SCSS, and Bootstrap as a group project. Used GitHub for collaboration and version management."
+  },
+  {
+    "id": 8,
+    "image": "siimple",
+    "name": "siimple",
+    "icons": [
+      {"name": "FaHtml5", "color": "#E34F26"},
+      {"name": "FaCss3", "color": "#1572B6"}
+    ],
+    "description": "Built with HTML and CSS to practice creating fully responsive websites without any external frameworks."
+  },
+  {
+    "id": 9,
+    "image": "sneakers",
+    "name": "sneakers",
+    "icons": [
+      {"name": "FaHtml5", "color": "#E34F26"},
+      {"name": "FaSass", "color": "#CC6699"}
+    ],
+    "description": "A clean sneakers website project built with HTML and Sass, focusing on responsive and minimalistic design."
+  },
+  {
+    "id": 10,
+    "image": "tastbite",
+    "name": "tastbite",
+    "icons": [
+      {"name": "FaReact", "color": "#61DAFB"},
+      {"name": "RiTailwindCssFill", "color": "#06B6D4"}
+    ],
+    "description": "My first project built with React, tailwind focusing on learning React components and their structure without using pure HTML and CSS."
+  }
+]

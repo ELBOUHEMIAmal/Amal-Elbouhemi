@@ -1,0 +1,13 @@
+[
+    { "name": "JavaScript", "icon": [ {"logo": "FaJs", "color": "#F7DF1E"}] },
+    { "name": "HTML", "icon": [  {"logo": "FaHtml5", "color": "#E34F26"}]},
+    { "name": "CSS", "icon": [{"logo": "FaCss3", "color": "#1572B6"}] },
+    { "name": "Tailwind", "icon": [ {"logo": "RiTailwindCssFill", "color": "#06B6D4"}] },
+    { "name": "Bootstrap", "icon": [{"logo": "FaBootstrap", "color": "#7952B3"}]},
+    { "name": "SCSS", "icon": [{"logo": "BsFiletypeScss", "color": "#CF649A"}] },
+    { "name": "Sass", "icon":  [ {"logo": "FaSass", "color": "#CC6699"}]},
+    { "name": "Git", "icon" : [ {"logo": " FaGitAlt", "color": "#F05032"}]},
+    { "name": "GitHub", "icon": [{"logo": "FaGithub", "color": "#181717"}] },
+    { "name": "Bash", "icon": [ {"logo": "SiGnubash ", "color": "#293138"}] },
+    { "name": "React", "icon": [{"logo": "FaReact", "color": "#61DAFB"}] }
+  ]
