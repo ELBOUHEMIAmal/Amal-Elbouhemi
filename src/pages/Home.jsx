@@ -126,7 +126,7 @@ export default function Home() {
 
                 {/* Mobile Navigation */}
                 <div className="md:hidden">
-                    <div className="absolute bottom-20 left-1/2 transform -translate-x-1/2 flex flex-col items-center space-y-4">
+                    <div className="absolute bottom-20 left-1/2 transform -translate-x-1/2 flex flex-col gap-3 items-center space-y-4">
                         <Link to={"/works"}>
                             <h1 className="hi text-lg cursor-pointer font-mono hover:scale-110 transition-transform">
                                 Works
