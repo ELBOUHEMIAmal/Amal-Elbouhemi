@@ -69,11 +69,18 @@ const [name, setName] = useState("");
     </div>
    </motion.div>
    <div className=" relative  contactIcons " style={{ color: iconColor }}>
-              <div className=' absolute bottom-3 left-2'>
-                <FaGithub size={35} className="pb-2 icon" />
-               <IoLogoLinkedin size={35} className="pb-2 icon"/>
-               <MdEmail size={35} className="pb-2 icon"/>
-                         <div className="w-[2px] h-30 bg-current mt-2 ml-[17px]"></div>
+              <div className=" w-fit absolute bottom-[5px] left-4  contactIcons " >
+                           
+                           <a href="https://github.com/ELBOUHEMIAmal" target="_blank" rel="noopener noreferrer">
+                      <FaGithub size={35} className="pb-2 icon" />
+                    </a>
+                           <a href="https://www.linkedin.com/in/amal-elbouhemi-5200a0228/" target="_blank" rel="noopener noreferrer">
+                      <IoLogoLinkedin size={35} className="pb-2 icon" />
+                    </a>
+                         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amalelbouhemi4@gmail.com" target="_blank" rel="noopener noreferrer">
+                <MdEmail size={35} className="pb-2 icon" />
+              </a>
+                                    <div className="w-[2px] h-30 bg-current mt-2 ml-[17px]"></div>
 
               </div>
            </div>
