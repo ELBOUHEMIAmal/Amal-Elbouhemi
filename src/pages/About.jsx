@@ -96,17 +96,17 @@ I believe that every line of code is a form of art when you write it with intent
 
                 {/* Mobile Layout */}
                 <div className="md:hidden px-4 py-8">
-                    <h1 className="text-3xl font-bold mb-8 text-center font-mono">ABOUT</h1>
+                    <h1 className="pl-[10px] text-xl title">ABOUT</h1>
                     <div className="flex flex-col items-center space-y-6">
-                        <div className="w-full max-w-sm">
-                            <img src={Images.aboutImg} alt="" className="w-full h-auto rounded-lg" />
-                        </div>
                         <div className="border-2 border-[#C0C0C2] w-full p-4 text-sm leading-relaxed font-semibold font-mono">
                             <p>I'm a passionate front-end developer based in Morocco. I love crafting clean, simple, and beautiful websites with smooth user experiences.
 
 I enjoy exploring the entire frontend stack, experimenting with new tools, and bringing ideas to life through my projects. I'm also a freelancer and a lifelong learner who loves sharing knowledge and reading inspiring books.
 
 I believe that every line of code is a form of art when you write it with intention and creativity. Feel free to connect with me through my social links below.</p>
+                        </div>
+                        <div className="w-full max-w-sm flex justify-center">
+                            <img src={Images.aboutImg} alt="" className="w-[150px] h-[150px] rounded-lg " />
                         </div>
                     </div>
                 </div>

@@ -126,7 +126,7 @@ const Skills = () => {
                 <source src={skillsVideo} type="video/mp4" />
             </video>
             
-            <div className="z-30 w-full relative flex justify-center pt-[60px] md:pt-[100px] px-4">
+            <div className="z-30 w-full relative flex justify-center pt-[110px] md:pt-[100px] px-4">
                 <div className="w-full md:w-[70vw] flex flex-wrap gap-3 md:gap-6 justify-center items-center">
                     <div className="iconsSkills flex flex-col items-center p-2 md:p-4">
                         <icons.FaHtml5 className="text-4xl md:text-6xl text-[#E34F26] mb-2" />

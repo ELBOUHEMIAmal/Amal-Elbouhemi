@@ -232,7 +232,7 @@ const Works = () => {
                                     </div>
                                 </div>
                                 <p className="text-[#C0C0C2] font-mono text-sm mb-3">{d.description}</p>
-                                <button className="w-full px-4 py-2 bg-black text-[#C0C0C2] rounded font-mono">
+                                <button className="w-fit px-4 py-2 bg-black text-[#C0C0C2] rounded font-mono">
                                     Visit
                                 </button>
                             </motion.div>
@@ -240,7 +240,7 @@ const Works = () => {
                     </div>
                 </div>
 
-                <div className="z-10 absolute bottom-[40px] right-4 md:right-0">
+                <div className="z-5 absolute bottom-[40px] right-4 md:right-0">
                     <h1 className="title text-2xl md:text-4xl">WORKS</h1>
                 </div>
 

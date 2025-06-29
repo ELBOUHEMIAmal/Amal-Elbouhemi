@@ -37,12 +37,10 @@ background: linear-gradient(180deg,rgba(192, 192, 194, 1) 0%, rgba(215, 215, 216
   background-size: cover;
 }
 .work{
-  background-color: aquamarine;
     width: 100vw;
   height: 100vh;
 }
 .skills{
-  background-color: rgb(243, 181, 11);
     width: 100vw;
   height: 100vh;
 }
@@ -136,4 +134,9 @@ background: linear-gradient(180deg,rgba(192, 192, 194, 1) 0%, rgba(215, 215, 216
 
 .iconsSkills h1{
   color: #C0C0C2;
+}
+@media (max-width: 600px) {
+  .title{
+    font-size: 100px;
+  }
 }
